@@ -1,0 +1,1 @@
+module.exports = ['#js-pjax-container > div > div.col-9.float-left > div.saved-reply-settings-container.mt-4.js-saved-reply-container.has-replies > div.listgroup > div:nth-child(1) > div > form:nth-child(1) > button']
