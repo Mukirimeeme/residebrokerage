@@ -9,9 +9,9 @@ module.exports = {
                 .verify.visible('@enterPasswordTab')
                 .verify.visible('@submit')
                 .click('@enterUsernameTab')
-                .setValue('@enterUsernameTab', 'innocentmeeme')
+                .setValue('@enterUsernameTab', '*******')
                 .click('@enterPasswordTab')
-                .setValue('@enterPasswordTab', 'Edithmwenda09@')
+                .setValue('@enterPasswordTab', '*********@')
                 .click('@submit')
         }
     }
